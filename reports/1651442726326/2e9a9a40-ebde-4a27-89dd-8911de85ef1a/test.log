@@ -1,0 +1,12 @@
+[2022-05-01 10:05:27] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-05-01 10:05:27] [1] [INFO] TEST [demoblaze - testRegister] STARTED at [19:05:27 2022-05-01]
+[2022-05-01 10:05:30] [31] [INFO] INFO: opening url 'https://www.demoblaze.com'
+[2022-05-01 10:05:31] [31] [INFO] URL 'https://www.demoblaze.com' opened
+[2022-05-01 10:05:33] [1] [INFO] PASS: element 'signUpBtn' is clicked.
+[2022-05-01 10:05:34] [1] [INFO] PASS: keys cleared in element 'userName'.
+[2022-05-01 10:05:36] [1] [INFO] PASS: keys 'wasquita5559' are sent to element 'userName'.
+[2022-05-01 10:05:37] [1] [INFO] PASS: keys cleared in element 'password'.
+[2022-05-01 10:05:38] [1] [INFO] PASS: keys '12345678' are sent to element 'password'.
+[2022-05-01 10:05:39] [1] [INFO] PASS: element 'registerBtn' is clicked.
+[2022-05-01 10:05:40] [1] [INFO] Alert accepted
+[2022-05-01 10:05:42] [1] [INFO] TEST [demoblaze - testRegister] PASSED at [19:05:42 2022-05-01]

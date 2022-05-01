@@ -1,0 +1,13 @@
+[2022-05-01 10:08:39] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-05-01 10:08:39] [1] [INFO] TEST [demoblaze - testAddToCart] STARTED at [19:08:39 2022-05-01]
+[2022-05-01 10:08:42] [31] [INFO] INFO: opening url 'https://www.demoblaze.com'
+[2022-05-01 10:08:43] [31] [INFO] URL 'https://www.demoblaze.com' opened
+[2022-05-01 10:08:45] [1] [INFO] PASS: element 'productSSG6' is clicked.
+[2022-05-01 10:08:46] [1] [INFO] PASS: element 'addToCartBtn' is clicked.
+[2022-05-01 10:08:47] [1] [INFO] Alert accepted
+[2022-05-01 10:08:49] [1] [INFO] PASS: element 'homeLink' is clicked.
+[2022-05-01 10:08:51] [1] [INFO] PASS: element 'productIPhone6' is clicked.
+[2022-05-01 10:08:52] [1] [INFO] PASS: element 'addToCartBtn' is clicked.
+[2022-05-01 10:08:53] [1] [INFO] Alert accepted
+[2022-05-01 10:08:54] [1] [INFO] PASS: element 'cartLink' is clicked.
+[2022-05-01 10:08:56] [1] [INFO] TEST [demoblaze - testAddToCart] PASSED at [19:08:56 2022-05-01]
